@@ -1,0 +1,18 @@
+Well, this is me trying to learn to code and trying to maintain my enligh level at the same time LOL. I decided to switch careers and i went from wanting to be a teacher of enlight to be a web developer, how cool!
+here it goes some code!
+
+<html lang="en">
+   <head>
+    <meta charset="utf-8">
+    <title>Clara</title>
+   </head>
+
+   <body>
+    <h1>Clara Rules!</h1>
+    <p>Clara is <strong><em>happy</em></strong> everyday, too.</p>
+    <!--the last one is my biggest wish!-->
+   
+     <p><img src="images/vsco_062222.jpg" alt="me holding my face with a one hand"></p>
+
+   </body>
+</html>
